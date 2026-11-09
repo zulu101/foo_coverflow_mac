@@ -8,6 +8,9 @@ Windows coverflow components such as `foo_chronflow` don't run on the Mac
 version of foobar2000, so this one is written from scratch in Objective-C++ and
 Core Animation on top of the official foobar2000 SDK.
 
+<img width="1492" height="920" alt="Bildschirmfoto 2026-11-09 um 22 22 08" src="https://github.com/user-attachments/assets/a46c72fd-a5ce-49f1-ba12-6eb6e8145eb7" />
+
+
 ## Features
 
 - 3D coverflow of all albums in the media library, grouped by album artist + album
